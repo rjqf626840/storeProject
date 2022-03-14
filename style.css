@@ -152,3 +152,7 @@ h3 {
 .store{
     list-style:none;
 }
+
+.fake {
+    color: white;
+}
